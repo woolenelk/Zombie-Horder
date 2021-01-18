@@ -335,7 +335,7 @@ MonoBehaviour:
   CameraDistance: 1.8
   CameraCollisionFilter:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 0
   IgnoreTag: 
   CameraRadius: 0.2
 --- !u!114 &936709806
@@ -880,7 +880,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-4624
+  m_Name: pb_Mesh16716
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
